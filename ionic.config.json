@@ -1,0 +1,8 @@
+{
+  "name": "AppTelecom_v10",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "64fb18e6"
+}
